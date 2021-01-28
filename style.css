@@ -143,3 +143,23 @@ hr{
 .para{
     font-size: 20px;
 }
+
+.li-color{
+
+    padding: 1rem;
+    flex-direction: column;
+    max-width: 1200px;
+    margin: 0 auto;  
+    height: 24vh;	
+    background-color: var(--off-white);
+    border-radius: 80px;
+}
+.lii{
+   padding: 1rem;
+    flex-direction: column;
+    max-width: 1200px;
+    margin: 0 auto;  
+    height: 25vh;	
+    padding: 1px;
+    margin-bottom: 20px;
+}
