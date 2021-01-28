@@ -167,3 +167,7 @@ hr{
     background-color: var(--off-white);
     border-radius: 50px;
 }
+
+.blogs-para{
+    font-size: 1.3rem;
+}
