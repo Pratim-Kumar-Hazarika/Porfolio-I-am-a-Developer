@@ -92,7 +92,7 @@ hr{
     padding-top: 1rem;
     text-align: center;
 }
-.hero .hero-heading .hero-inverted{
+.hero .hero-heading .hero-inverted {
     color: var(--primary-color);
 }
 
@@ -130,4 +130,13 @@ hr{
 }
 .fab{
     font-size: 2rem;
+}
+.h1-tag{
+   color: var(--primary-color);
+}
+
+.img-icons{
+   height: 63px;
+   padding: 1rem;
+   font-size: 5rem;
 }
